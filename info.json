@@ -1,9 +1,9 @@
 {
   "name":"NoInfinite",
   "author":"Stargateur",
-  "version":"0.0.0",
-  "factorio_version": "1.1",
+  "version":"0.1.0",
   "title":"No Infinite",
   "description":"Infinite Ressource will be destroy instead of yielding it's minimun output",
-  "dependencies": ["base"]
+  "dependencies": ["base"],
+  "factorio_version": "2.0"
 }
